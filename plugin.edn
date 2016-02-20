@@ -1,0 +1,6 @@
+{:name "clj_test_helper"
+ :version "0.0.1"
+ :author ""
+ :source ""
+ :desc ""
+ :behaviors "clj_test_helper.behaviors"}
