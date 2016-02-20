@@ -1,5 +1,4 @@
 [
  [:app :lt.objs.plugins/load-js "clj_test_helper_compiled.js"]
- [:clj-test-helper.hello :lt.plugins.clj-test-helper/on-close-destroy]
  [:editor.clj :lt.plugins.clj-test-helper/test-results]
 ]
